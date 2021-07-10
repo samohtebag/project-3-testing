@@ -1,0 +1,7 @@
+{
+"mongoURI" :  "mongodb+srv://Twism5229:IPe58sqy7oPT5QLx@cluster0.2ykkv.mongodb.net/test?retryWrites=true&w=majority",
+"jwtSecret": "Mysecrettoken",
+"githubClientID": "cfc1e3056b9bb93647aa",
+"githubSecret": "931104a941b2d82c3362d5d4d0683eaf533b3bb9"
+
+}
